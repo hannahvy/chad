@@ -1,2 +1,2 @@
-# chad
+# CHAD
 Site for Community Help and Discovery (CHAD) non-profit
